@@ -1,6 +1,6 @@
-# search_choices
+# custom_dropdown_tcb
 
-Highly versatile Widget to search through a single or multiple choices list in a dialog box or a menu. Supports pagination and future/network/API/webservice searches with sort and filter.
+Custom dropdown with search, dialogbox and many more versatile features. Supports pagination and future/API/webservice searches with sort and filter. Powered by TheCloudBill @ Dweck Enterprise LLP
 
 ## Platforms
 
@@ -10,7 +10,7 @@ This widget has been successfully tested on iOS, Android, Linux and Chrome. It i
 
 Add to your `pubspec.yaml` in the `dependencies` section:
 ```
-  search_choices_tcb:
+  custom_dropdown_tcb:
 ```
 
 Get packages with command:

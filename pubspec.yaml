@@ -1,7 +1,9 @@
 name: custom_dropdown_tcb
-description: Custom dropdown with search, dialogbox and many more versatile features. Supports pagination and future/API/webservice searches with sort and filter
-version: 0.0.1
-homepage: 
+description: Custom dropdown with search, dialogbox and many more versatile features. Supports pagination and future/API/webservice searches with sort and filter. Powered by TheCloudBill @ Dweck Enterprise LLP
+version: 0.0.4
+homepage: https://www.thecloudbill.com/
+repository: https://github.com/TheCloudBill/custom_dropdown_tcb
+issues: https://github.com/TheCloudBill/custom_dropdown_tcb/issues
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
